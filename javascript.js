@@ -395,6 +395,7 @@ $('#h3').hide().fadeIn(700,function(){
     $('#h2').fadeIn(700,function(){
       $('.backimg').fadeIn(1000);
       $('#scrollicon').fadeIn(1000);
+      $('header').fadeIn(1000);
     });
   });
 });
