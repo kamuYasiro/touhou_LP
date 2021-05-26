@@ -390,6 +390,7 @@ $('#h1').hide();
 $('#h2').hide();
 $('.backimg').hide();
 $('#scrollicon').hide();
+$('header').hide();
 $('#h3').hide().fadeIn(700,function(){
   $('#h1').fadeIn(700,function(){
     $('#h2').fadeIn(700,function(){
