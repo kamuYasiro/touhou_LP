@@ -1093,6 +1093,8 @@ footer #page-top a:hover{
     
     .series{
       background-attachment: fixed;
+      background-position:center;
+      background-size: auto;
     }
 
     .first h3{
@@ -1117,9 +1119,6 @@ footer #page-top a:hover{
     }
     .touhou p{
       font-size:12px;
-    }
-    .series{
-      background-position:center;
     }
     .kouma h2:last-of-type {
       margin-bottom: 150px;
@@ -1231,6 +1230,7 @@ footer #page-top a:hover{
 
     .huujin .flex{
       flex-wrap: wrap;
+      width:100%;
       height:auto;
     }
     .huujin .flex img{
