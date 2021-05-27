@@ -1070,7 +1070,7 @@ footer #page-top a:hover{
       width:100%;
       overflow-x: hidden;
     }
-    header{
+    header .slideR{
       display: none;
     }
     .first{
@@ -1089,6 +1089,10 @@ footer #page-top a:hover{
     }
     .coment{
       display:none;
+    }
+    
+    .series{
+      background-attachment: fixed;
     }
 
     .first h3{
@@ -1230,6 +1234,7 @@ footer #page-top a:hover{
     }
     .huujin .flex img{
       width:100%;
+      height:auto;
     }
     .huujin .flex span{
       display:inline-block;
