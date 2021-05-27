@@ -1231,18 +1231,13 @@ footer #page-top a:hover{
 
     .huujin .flex{
       flex-wrap: wrap;
+      height:auto;
     }
     .huujin .flex img{
       width:100%;
       height:auto;
     }
     .huujin .flex span{
-      display:inline-block;
-      width:100%;
-      font-size:60px;
-      font-family:sans-serif;
-      position:relative;
-      z-index: 1;
       display: none;
     }
     .huujin .flex:nth-child(1) img,.huujin .flex:nth-child(3) img,.huujin .flex:nth-child(5) img,.huujin .flex:nth-child(7) img{
