@@ -1094,7 +1094,6 @@ footer #page-top a:hover{
     .series{
       background-attachment: fixed;
       background-position:center;
-      background-size: auto;
     }
 
     .first h3{
@@ -1231,11 +1230,11 @@ footer #page-top a:hover{
     .huujin .flex{
       flex-wrap: wrap;
       width:100%;
-      height:auto;
+      height:200px;
     }
     .huujin .flex img{
       width:100%;
-      height:auto;
+      height:100%;
     }
     .huujin .flex span{
       display: none;
