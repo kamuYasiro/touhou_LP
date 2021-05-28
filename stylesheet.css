@@ -1096,7 +1096,49 @@ footer #page-top a:hover{
       background-position:center;
     }
 	  
-.series::before {
+.kouma::before {
+content:"";
+display:block;
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+width:100%;
+height:100vh;
+background-repeat:no-repeat;
+background-position:50% 100%;
+background-image: url(赤い月.jpg);
+background-size:cover;
+}  
+.youmu::before {
+content:"";
+display:block;
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+width:100%;
+height:100vh;
+background-repeat:no-repeat;
+background-position:50% 100%;
+background-image: url(Clip25.jpg);
+background-size:cover;
+}  
+.eiya::before {
+content:"";
+display:block;
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+width:100%;
+height:100vh;
+background-repeat:no-repeat;
+background-position:50% 100%;
+background-image: url(Clip26.jpg);
+background-size:cover;
+}  
+.kaei::before {
 content:"";
 display:block;
 position:fixed;
@@ -1109,7 +1151,35 @@ background-repeat:no-repeat;
 background-position:50% 100%;
 background-image:url(caraful.png);
 background-size:cover;
-}
+}  
+.huujin::before {
+content:"";
+display:block;
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+width:100%;
+height:100vh;
+background-repeat:no-repeat;
+background-position:50% 100%;
+background-image:url(青空２.jpeg);
+background-size:cover;
+}  
+.tirei::before {
+content:"";
+display:block;
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+width:100%;
+height:100vh;
+background-repeat:no-repeat;
+background-position:50% 100%;
+background-image:url(a.jpg);
+background-size:cover;
+}  
 
     .first h3{
       font-size:36px;
