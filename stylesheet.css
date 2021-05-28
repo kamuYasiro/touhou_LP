@@ -1090,11 +1090,6 @@ footer #page-top a:hover{
     .coment{
       display:none;
     }
-    
-    .series{
-      background-attachment: fixed;
-      background-position:center;
-    }
  
 .kouma{
 background-image:none;
@@ -1103,7 +1098,7 @@ position:relative;
 .kouma::before {
 content:"";
 display:block;
-position:fixed;
+	background-attachment: fixed;
 	position:absolute;
 top:0;
 left:0;
@@ -1122,7 +1117,7 @@ position:relative;
 .youmu::before {
 content:"";
 display:block;
-position:fixed;
+	background-attachment: fixed;
 	position:absolute;
 top:0;
 left:0;
