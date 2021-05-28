@@ -1122,12 +1122,15 @@ background-image:none;
 background-color:green;
 position:relative;
 }
-.eiya h2{
+.series h2{
 	border-bottom:4px solid black;
 }
 .eiya .boxclipin {
-    background-color: rgba(0,0,0,0.);
+    background-color: rgba(0,0,0,0.2);
 }
+	  .tirei h2{
+	  filter:none;
+	  }
 	  
     .first h3{
       font-size:36px;
