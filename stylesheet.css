@@ -1098,6 +1098,7 @@ footer #page-top a:hover{
  
 .kouma{
 background-image:none;
+position:relative;
 }
 .kouma::before {
 content:"";
@@ -1115,6 +1116,7 @@ background-size:cover;
 } 
 .youmu{
 background-image:none;
+position:relative;
 } 
 .youmu::before {
 content:"";
