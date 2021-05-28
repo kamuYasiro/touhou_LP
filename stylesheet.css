@@ -1097,7 +1097,7 @@ footer #page-top a:hover{
     }
  
 .kouma{
-background-image:none;}
+background-image:none;
 }
 .kouma::before {
 content:"";
