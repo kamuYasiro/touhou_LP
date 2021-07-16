@@ -997,7 +997,7 @@ footer #page-top a{
   padding:25px 40px;
   position:absolute;
   top:40%;
-  left:92%;
+  right:5%;
 }
 footer #page-top a:hover{
   background-color: white;
@@ -1006,9 +1006,7 @@ footer #page-top a:hover{
 
 #otoi {
       margin:0 auto;
-      max-width:10%;
       text-decoration: none;
-      display:block;
       animation:prunprun 2.2s ease-in infinite;
       -webkit-animation:prunprun 2.2s ease-in infinite;
       -moz-animation:prunprun 2.2s ease-in infinite;
